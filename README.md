@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitcoban&show_icons=true&locale=en&layout=compact" alt="umitcoban" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umitcoban&show_icons=true&locale=en" alt="umitcoban" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umitcoban&" alt="umitcoban" /></p>
